@@ -1,0 +1,1 @@
+start palemoon.exe website/index.html
